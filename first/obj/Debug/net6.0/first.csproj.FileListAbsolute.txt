@@ -1,0 +1,15 @@
+/home/kevin/Documents/Workspace/CSharp/first/bin/Debug/net6.0/first
+/home/kevin/Documents/Workspace/CSharp/first/bin/Debug/net6.0/first.deps.json
+/home/kevin/Documents/Workspace/CSharp/first/bin/Debug/net6.0/first.runtimeconfig.json
+/home/kevin/Documents/Workspace/CSharp/first/bin/Debug/net6.0/first.dll
+/home/kevin/Documents/Workspace/CSharp/first/bin/Debug/net6.0/first.pdb
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.csproj.AssemblyReference.cache
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.AssemblyInfoInputs.cache
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.AssemblyInfo.cs
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.csproj.CoreCompileInputs.cache
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.dll
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/refint/first.dll
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.pdb
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/first.genruntimeconfig.cache
+/home/kevin/Documents/Workspace/CSharp/first/obj/Debug/net6.0/ref/first.dll

@@ -1,0 +1,15 @@
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/bin/Debug/net6.0/first-without-top-level-statment
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/bin/Debug/net6.0/first-without-top-level-statment.deps.json
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/bin/Debug/net6.0/first-without-top-level-statment.runtimeconfig.json
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/bin/Debug/net6.0/first-without-top-level-statment.dll
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/bin/Debug/net6.0/first-without-top-level-statment.pdb
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.csproj.AssemblyReference.cache
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.AssemblyInfoInputs.cache
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.AssemblyInfo.cs
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.csproj.CoreCompileInputs.cache
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.dll
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/refint/first-without-top-level-statment.dll
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.pdb
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/first-without-top-level-statment.genruntimeconfig.cache
+/home/kevin/Documents/Workspace/CSharp/first-without-top-level-statment/obj/Debug/net6.0/ref/first-without-top-level-statment.dll
